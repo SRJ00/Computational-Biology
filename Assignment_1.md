@@ -1,20 +1,4 @@
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 # ST-019 Bio-Computing Assignment 1
 ## Saurav Jadhav (2120) and Abhijit Chavan (2108)
 <br>
@@ -31,9 +15,10 @@ $$ H(P||Q)= \sum_{i=1}^n p(x_i) \log_2{p(x_i)/ q(x_i)} $$
 ### The Mutual Information is given by: 
 $$ I(X;Y)= H(X)- H(X|Y) $$
 
-<br> 
+ 
 ## Algorithm, Code, and Flow Chart for Entropy, Cross Entropy, and Mutual Information  
-<br>
+
+
 ## Algorithm for Entropy 
 ___________________________________________________________________________________________________________________________________________________________________________
 
